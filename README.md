@@ -3,3 +3,4 @@
 - Python
 - Pandas
 - Análise descritiva e Correlação
+- Testes de Hipótese
